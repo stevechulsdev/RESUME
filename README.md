@@ -49,8 +49,8 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <li>인증서 관리</li>
 
 <h3>Server</h3>
-토이프로젝트에서 사용할 만한 수준의 <br>
-CRUD 정도의 쿼리와 완벽하지는 않지만 서버 구축 및 Rest api를 만들 수 있습니다. <br>
+<strong>토이프로젝트에서 사용할 만한 수준의</strong> <br>
+<strong>CRUD 정도의 쿼리와 완벽하지는 않지만 서버 구축 및 Rest api를 만들 수 있습니다.</strong> <br>
 <li>AWS EC2 + RDS(MariaDB) + (Java + Jsp)</li>
 <li>기타: MySQL, Python, Spring, AWS DynamoDB(NoSQL), RealTimeDB / FireStore (Firebase NoSQL)</li>
 
