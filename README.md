@@ -114,7 +114,7 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <li>사용기술 - Kotlin, MVVM, FCM, Android MediaPlayer, aws cognito login sdk, aws dynamoDB, aws S3 upload, Realm, MPAndroidChart Library...</li>
 </ul>
 
-<h3>Wplus Wallet</h3>
+<h3><a href="https://play.google.com/store/apps/details?id=io.wplus">Wplus Wallet</a></h3>
 <strong>Wplus 암호화폐 지갑</strong>
 <ul>
 <li>참여도 - 신규 서비스 Wpay 개발 중 (100%)</li>
