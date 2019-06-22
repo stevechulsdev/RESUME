@@ -62,4 +62,4 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <li>이슈관리 - Github issue, Jira, Redmine, Trello</li>
 <li>버전관리 - Git(sourceTree, GitKraken), Bitbucket, SVN</li>
 <li>디자인 - Zeplin</li>
-<li>문서 - Notion, Confluence, Java Doc, Google Docs</li>
+<li>문서(API) - Notion, Confluence, Java Doc, Google Docs</li>
