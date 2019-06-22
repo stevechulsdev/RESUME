@@ -60,6 +60,7 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <li>PCB 블루투스 모듈 연동</li>
 <li>아두이노 LED 제어</li>
 <li>맥 오토메이터 쉘스크립트 (apk 설치 스크립트 작성 앱, 키스토어 파일 생성 스크립트 앱)</li>
+<li>유니티 NGUI</li>
 <li>커뮤니케이션 - Slack, Telegram</li>
 <li>이슈관리 - Github issue, Jira, Redmine, Trello</li>
 <li>버전관리 - Git(sourceTree, GitKraken), Bitbucket, SVN</li>
@@ -69,3 +70,8 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 # 프로젝트 이력
 
 <img src="https://github.com/stevechulsdev/RESUME/raw/master/images/icon_tomntoms.png" alt="탐앤탐스" width="80" height="80">
+
+<h3>탐앤탐스 - 마이탐</h3>
+<li>안드로이드 앱 전체 새로 개발</li>
+<li>주요 담당 - 결제</li>
+<li>참여도 - 50%<li>
