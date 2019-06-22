@@ -90,14 +90,14 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <li>안드로이드 앱 전체 새로 개발</li>
 <li>주요 담당 - 선물하기, 결제 (PG)</li>
 <li>참여도 - 50%</li>
-<li>사용기술 - Java, Custom UI, Custom Animation, LGU+ PG, Retofit, Loombok, Gson, Glide, Databinding...</li>
+<li>사용기술 - Java, FCM, Custom UI, Custom Animation, LGU+ PG, Retofit, Loombok, Gson, Glide, Databinding...</li>
 </ul>
 
 <h3>WAYHOM - 웨이홈</h3>
 <strong>GPS 기반으로 사회적 약자의 안전한 귀가를 도와주는 서비스</strong>
 <ul>
 <li>참여도 - 100%</li>
-<li>사용기술 - Tmap, Java, Service Component, Retofit, Loombok, Databinding, Glide</li>
+<li>사용기술 - Tmap, Java, Notification, Service Component, Retofit, Loombok, Databinding, Glide</li>
 </ul>
 
 <h3>PCB 블루투스 모듈을 연동한 금고 제어</h3>
@@ -111,5 +111,12 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <strong>사람의 소변을 녹음하여 건강 여부를 체크해주는 헬스케어 서비스</strong>
 <ul>
 <li>참여도 - 60%</li>
-<li>사용기술 - Kotlin, MVVM, Android MediaPlayer, aws cognito login sdk, aws dynamoDB, aws S3 upload, Realm, MPAndroidChart Library...</li>
+<li>사용기술 - Kotlin, MVVM, FCM, Android MediaPlayer, aws cognito login sdk, aws dynamoDB, aws S3 upload, Realm, MPAndroidChart Library...</li>
+</ul>
+
+<h3>Wplus Wallet</h3>
+<strong>Wplus 암호화폐 지갑</strong>
+<ul>
+<li>참여도 - 신규 서비스 Wpay 개발 중 (100%)</li>
+<li>사용기술 - Kotlin, MVP, Unit Test (api), FCM, Pushy(notification sdk), Service Component, Retrofit, rxJava/rxAndroid, Anko Library...</li>
 </ul>
