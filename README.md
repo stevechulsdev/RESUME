@@ -65,3 +65,7 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <li>버전관리 - Git(sourceTree, GitKraken), Bitbucket, SVN</li>
 <li>디자인 - Zeplin</li>
 <li>문서(API) - Notion, Confluence, Java Doc, Google Docs</li>
+
+# 프로젝트 이력
+
+<img src="https://github.com/stevechulsdev/RESUME/raw/master/images/icon_tomntoms.png" alt="탐앤탐스" width="80" height="80">
