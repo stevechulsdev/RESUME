@@ -73,5 +73,11 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 
 <h3><a href="https://play.google.com/store/apps/details?id=com.tomntoms.mytom&hl=ko">탐앤탐스 - 마이탐</a></h3>
 <li>안드로이드 앱 전체 새로 개발</li>
-<li>주요 담당 - 결제 (PG)</li>
+<li>주요 담당 - 선물하기, 결제 (PG)</li>
 <li>참여도 - 50%</li>
+<li>사용기술 - Java, Custom UI, Custom Animation, LGU+ PG, Retofit, Loombok, Gson, Glide, Databinding...</li>
+
+<h3>WAYHOM(웨이홈)</h3>
+<strong>GPS 기반으로 사회적 약자의 안전한 귀가를 도와주는 서비스</strong>
+<li>
+<li>참여도 - 100%</li>
