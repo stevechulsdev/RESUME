@@ -10,9 +10,38 @@
 <img src="https://github.com/stevechulsdev/RESUME/raw/master/images/profile.jpg" alt="프로필이미지" width="250" height="188">
 <li> 이름: 김상철</li>
 <li> 출생: 1990년</li>
+<li> 학력: 인하공업전문대학 컴퓨터시스템학과 졸업(2010 ~ 2015) 3년</li>
 <li> 군복무: 대한민국 해병대 병장 전역 - 兵 1139期 &nbsp;<img src="https://github.com/stevechulsdev/RESUME/raw/master/images/icon_marine.jpg" alt="해병대마크" width="50" height="50"></li>
 <li> 취미: 농구, 자전거, <strong>코딩</strong>, 음악듣기</li>
 <li> Email: <a href="mailto:stevechulsdev@gmail.com">stevechulsdev@gmail.com</a></li>
 <li> GitHub: <a href="https://github.com/stevechulsdev">github.com/stevechulsdev</a></li>
 <br>
 
+# 회사경력
+<li>키드원(2014 ~ 2015) - 폐업</li>
+<li>팡게임(2015 ~ 2016)</li>
+<li>엔터메이트(2016 ~ 2018) - 경영난</li>
+<li>김지민앤컴퍼니(2018 ~ 2019) - 경영난</li>
+<li>더블유플러스(2019 ~ 현재)</li>
+
+# 사용기술
+<h3>Android</h3> <br>
+<li>Java</li>
+<li>Kotlin</li>
+<li>RxJava</li>
+<li>MVP, MVVM Pattern</li>
+<li>DataBinding</li>
+<li>Jenkins, Bitrise CI</li>
+<li>Unit Test Mockito</li>
+<li>기타: Glide, Picasso, Retrofit, MPAndroidChart, PG, Firebase...</li>
+
+<h3>iOS</h3> <br>
+<li>Swift - 하</li>
+<li>스토리보드 - 하</li>
+<li>빌드 & .IPA 추출</li>
+<li>앱스토어 배포</li>
+<li>인증서 관리</li>
+
+<h3>Server</h3> <br>
+<li>AWS EC2 + RDS(MariaDB) + (Java + Jsp)</li>
+<li>기타: MySQL, python, spring, aws dynamoDB(NoSQL), RealTimeDB / FireStore (Firebase NoSQL)</li>  
