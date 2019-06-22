@@ -131,4 +131,5 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
   <li>Jenkins CI Entermate SDK Android 자동화 빌드</li>
   <li>SDK 유지보수</li>
   <li>SDK 기능 - 마케팅 SDK (GA, IGaworks, adjust...), 보안 SDK (AppSealing), 채팅 (Firebase RealtimeDatabase), Google InApp SDK, 게임 내 이벤트, 공지사항, 버전 체크.. 등 게임 개발 외 모든 부분</li>
+  <li><a href="https://www.entermate.com/">SDK 적용 게임</a></li>
 </ul>
