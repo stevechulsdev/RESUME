@@ -118,5 +118,17 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <strong>Wplus 암호화폐 지갑</strong>
 <ul>
 <li>참여도 - 신규 서비스 Wpay 개발 중 (100%)</li>
-<li>사용기술 - Kotlin, MVP, Unit Test (api), FCM, Pushy(notification sdk), Service Component, Retrofit, rxJava/rxAndroid, Anko Library...</li>
+<li>사용기술 - Kotlin, MVP, Unit Test (api), FCM, Pushy(notification sdk), Service Component, Retrofit, rxJava/rxAndroid, Anko Library, Bitrise CI...</li>
+</ul>
+
+<h3>엔터메이트 SDK</h3>
+<string>엔터메이트 게임 퍼블리싱 회사의 SDK개발 및 유지보수</strong>
+<ul>
+  <li>apk, ipa 배포</li>
+  <li>개발사 SDK 연동 커뮤니케이션</li>
+  <li>SDK API 문서 작성</li>
+  <li>개발사 제공 SDK Sample Project 생성</li>
+  <li>Jenkins CI Entermate SDK Android 자동화 빌드</li>
+  <li>SDK 유지보수</li>
+  <li>SDK 기능 - 마케팅 SDK (GA, IGaworks, adjust...), 보안 SDK (AppSealing), 채팅 (Firebase RealtimeDatabase), Google InApp SDK, 게임 내 이벤트, 공지사항, 버전 체크.. 등 게임 개발 외 모든 부분</li>
 </ul>
