@@ -5,7 +5,7 @@
 <br>
 개발을 시작한 순간부터 지금까지의 제 마음가짐 입니다. <br>
 앞으로도 그럴 것 입니다. <br>
-내가 모르기에 항상 배우고, 끊임 없이 도전하겠습니다. <br>
+내가 모르기에 항상 배우고, 끊임 없이 도전한다. <br>
 
 <img src="https://github.com/stevechulsdev/RESUME/raw/master/images/profile.jpg" alt="프로필이미지" width="250" height="188">
 <li> 이름: 김상철</li>
