@@ -25,7 +25,7 @@
 <li>더블유플러스(2019 ~ 현재)</li>
 
 # 사용기술
-<h3>Android</h3> <br>
+<h3>Android</h3>
 <li>Java</li>
 <li>Kotlin</li>
 <li>RxJava</li>
@@ -35,13 +35,13 @@
 <li>Unit Test Mockito</li>
 <li>기타: Glide, Picasso, Retrofit, MPAndroidChart, PG, Firebase...</li>
 
-<h3>iOS</h3> <br>
+<h3>iOS</h3>
 <li>Swift - 하</li>
 <li>스토리보드 - 하</li>
 <li>빌드 & .IPA 추출</li>
 <li>앱스토어 배포</li>
 <li>인증서 관리</li>
 
-<h3>Server</h3> <br>
+<h3>Server</h3>
 <li>AWS EC2 + RDS(MariaDB) + (Java + Jsp)</li>
 <li>기타: MySQL, python, spring, aws dynamoDB(NoSQL), RealTimeDB / FireStore (Firebase NoSQL)</li>  
