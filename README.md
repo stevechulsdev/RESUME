@@ -80,3 +80,9 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <h3>WAYHOM(웨이홈)</h3>
 <strong>GPS 기반으로 사회적 약자의 안전한 귀가를 도와주는 서비스</strong>
 <li>참여도 - 100%</li>
+<li>사용기술 - Tmap, Java, Service Component, Retofit, Loombok, Databinding, Glide</li>
+
+<h3>PCB 블루투스 모듈을 연동한 금고 제어</h3>
+<strong>PCB 블루투스 모듈과 안드로이드와의 블루투스 통신으로 금고 제어</strong>
+<li>참여도 - 70%</li>
+<li>사용기술 - Kotlin, Service Component, Broadcast Receiver Component, Blutooth, Widget...</li>
