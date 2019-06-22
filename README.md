@@ -31,7 +31,7 @@
 <li>RxJava</li>
 <li>MVP, MVVM Pattern</li>
 <li>DataBinding</li>
-<li>Jenkins, Bitrise CI</li>
+<li>Jenkins, Bitrise CI 빌드 자동화 구축</li>
 <li>Unit Test Mockito</li>
 <li>기타: Glide, Picasso, Retrofit, MPAndroidChart, PG, Firebase...</li>
 
@@ -43,6 +43,7 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <h3>iOS</h3>
 <li>Swift - 하</li>
 <li>스토리보드 - 하</li>
+<li>Jenkins CI 빌드 자동화 구축</li>
 <li>빌드 & .IPA 추출</li>
 <li>앱스토어 배포</li>
 <li>인증서 관리</li>
