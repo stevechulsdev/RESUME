@@ -93,7 +93,7 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <li>사용기술 - Java, Custom UI, Custom Animation, LGU+ PG, Retofit, Loombok, Gson, Glide, Databinding...</li>
 </ul>
 
-<h3>WAYHOM(웨이홈)</h3>
+<h3>WAYHOM - 웨이홈</h3>
 <strong>GPS 기반으로 사회적 약자의 안전한 귀가를 도와주는 서비스</strong>
 <ul>
 <li>참여도 - 100%</li>
@@ -104,5 +104,12 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <strong>PCB 블루투스 모듈과 안드로이드와의 블루투스 통신으로 금고 제어</strong>
 <ul>
 <li>참여도 - 70%</li>
-<li>사용기술 - Kotlin, Service Component, Broadcast Receiver Component, Blutooth, Widget...</li>
+<li>사용기술 - Kotlin, MVVM, Service Component, Broadcast Receiver Component, Blutooth, Widget...</li>
+</ul>
+
+<h3>Privy - 프리비</h3>
+<strong>사람의 소변을 녹음하여 건강 여부를 체크해주는 헬스케어 서비스</strong>
+<ul>
+<li>참여도 - 60%</li>
+<li>사용기술 - Kotlin, MVVM, Android MediaPlayer, aws cognito login sdk, aws dynamoDB, aws S3 upload, Realm, MPAndroidChart Library...</li>
 </ul>
