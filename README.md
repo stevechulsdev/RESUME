@@ -122,7 +122,7 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 </ul>
 
 <h3>엔터메이트 SDK</h3>
-<string>엔터메이트 게임 퍼블리싱 회사의 SDK개발 및 유지보수</strong>
+<strong>엔터메이트 게임 퍼블리싱 회사의 SDK개발 및 유지보수</strong>
 <ul>
   <li>apk, ipa 배포</li>
   <li>개발사 SDK 연동 커뮤니케이션</li>
