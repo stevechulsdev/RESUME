@@ -49,7 +49,7 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 
 <h3>Server</h3>
 <li>AWS EC2 + RDS(MariaDB) + (Java + Jsp)</li>
-<li>기타: MySQL, python, spring, aws dynamoDB(NoSQL), RealTimeDB / FireStore (Firebase NoSQL)</li>
+<li>기타: MySQL, Python, Spring, AWS DynamoDB(NoSQL), RealTimeDB / FireStore (Firebase NoSQL)</li>
 
 <h3>기타</h3>
 <li>개인용 NAS 구축 (ipTime NAS)</li>
