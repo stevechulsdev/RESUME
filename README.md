@@ -107,7 +107,7 @@ Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <li>사용기술 - Kotlin, MVVM, Service Component, Broadcast Receiver Component, Blutooth, Widget...</li>
 </ul>
 
-<h3>Privy - 프리비</h3>
+<h3><a href="https://play.google.com/store/apps/details?id=com.soundable.privyandroid.kr">Privy - 프리비</a></h3>
 <strong>사람의 소변을 녹음하여 건강 여부를 체크해주는 헬스케어 서비스</strong>
 <ul>
 <li>참여도 - 60%</li>
