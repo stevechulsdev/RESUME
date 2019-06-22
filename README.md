@@ -44,8 +44,8 @@
 <h4>Android 개인 라이브러리</h4>
 Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
 <ul>
+  <li> <a href="https://github.com/stevechulsdev/recyclerswipe">stevechuls Recycler Swipe Animation Library</li>
   <li> <a href="https://github.com/stevechulsdev/tevechulspermission">stevechuls RunTimePermission Library</li>
-  <li> <a href="https://github.com/stevechulsdev/recyclerswipe">stevechuls Recycler Swipe Library</li>
 </ul>
 
 <h3>iOS</h3>
