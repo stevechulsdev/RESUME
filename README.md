@@ -35,6 +35,11 @@
 <li>Unit Test Mockito</li>
 <li>기타: Glide, Picasso, Retrofit, MPAndroidChart, PG, Firebase...</li>
 
+<h4>Android 개인 라이브러리</h4>
+Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
+<li> <a href="https://github.com/stevechulsdev/tevechulspermission">stevechuls RunTimePermission Library</li>
+<li> <a href="https://github.com/stevechulsdev/recyclerswipe">stevechuls Recycler Swipe Library</li>
+
 <h3>iOS</h3>
 <li>Swift - 하</li>
 <li>스토리보드 - 하</li>
@@ -52,8 +57,3 @@
 <li>PCB 블루투스 모듈 연동</li>
 <li>아두이노 LED 제어</li>
 <li>맥 오토메이터 쉘스크립트 (apk 설치 스크립트 작성 앱, 키스토어 파일 생성 스크립트 앱)</li>
-
-<h3>Android 개인 라이브러리</h3>
-Bintray를 이용한 안드로이드 그래들 플러그인 배포 <br>
-<li> <a href="https://github.com/stevechulsdev/tevechulspermission">stevechuls RunTimePermission Library</li>
-<li> <a href="https://github.com/stevechulsdev/recyclerswipe">stevechuls Recycler Swipe Library</li>
